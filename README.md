@@ -1,5 +1,8 @@
 # Barnes-Hut_SPH
 
+## 1k 1k merge
+![image](https://github.com/junobonnie/Barnes-Hut_SPH/blob/main/1k%201k%20sph%20(0).gif)
+
 ## 1k 1k collision
 ![image](https://github.com/junobonnie/Barnes-Hut_SPH/blob/main/1k%201k%20sph.gif)
 
